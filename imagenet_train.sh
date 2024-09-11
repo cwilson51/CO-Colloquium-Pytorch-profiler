@@ -2,7 +2,7 @@
 #SBATCH --time=0-00:30:00
 #SBATCH --cpus-per-task=6
 #SBATCH --gres=gpu:a100_4g.20gb:1
-#SBATCH --mem=4000M
+#SBATCH --mem=8000M
 #SBATCH --account=def-account
 
 # Load modules
