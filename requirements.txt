@@ -47,7 +47,7 @@ stack_data==0.6.3+computecanada
 sympy==1.12.1+computecanada
 torch==2.3.1+computecanada
 torchvision==0.18.1+torch23.computecanada
-tornado==6.4.1
+tornado==6.4.2
 tqdm==4.66.5+computecanada
 traitlets==5.14.3+computecanada
 triton==2.3.0+computecanada
