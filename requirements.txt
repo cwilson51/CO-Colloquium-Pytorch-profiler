@@ -12,7 +12,7 @@ fsspec==2024.6.1+computecanada
 ipykernel==6.29.4+computecanada
 ipython==8.25.0+computecanada
 jedi==0.19.1+computecanada
-jinja2==3.1.4+computecanada
+jinja2==3.1.6
 jupyter_client==8.6.2+computecanada
 jupyter_core==5.7.2+computecanada
 kiwisolver==1.4.5+computecanada
