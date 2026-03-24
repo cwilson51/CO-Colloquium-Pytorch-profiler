@@ -29,7 +29,7 @@ packaging==24.1+computecanada
 pandas==2.2.1+computecanada
 parso==0.8.4+computecanada
 pexpect==4.9.0+computecanada
-pillow==10.3.0+computecanada
+pillow==12.1.1
 Pillow_SIMD==9.0.0.post1+computecanada
 platformdirs==3.9.1+computecanada
 prompt_toolkit==3.0.47+computecanada
