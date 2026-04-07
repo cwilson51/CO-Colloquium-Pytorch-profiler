@@ -7,7 +7,7 @@ debugpy==1.8.1+computecanada
 decorator==5.1.1+computecanada
 executing==2.0.1+computecanada
 filelock==3.13.1+computecanada
-fonttools==4.53.0+computecanada
+fonttools==4.60.2
 fsspec==2024.6.1+computecanada
 ipykernel==6.29.4+computecanada
 ipython==8.25.0+computecanada
