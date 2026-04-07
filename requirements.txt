@@ -6,7 +6,7 @@ cycler==0.12.1+computecanada
 debugpy==1.8.1+computecanada
 decorator==5.1.1+computecanada
 executing==2.0.1+computecanada
-filelock==3.13.1+computecanada
+filelock==3.20.3
 fonttools==4.60.2
 fsspec==2024.6.1+computecanada
 ipykernel==6.29.4+computecanada
